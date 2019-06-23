@@ -1,0 +1,7 @@
+<h1>SIDRIE</h1>
+
+<div>  
+  <img [src]="imageURL" *ngIf="imageURL">
+  <input #file type="file" (change)="showImage(file.files)">
+</div>
+<router-outlet></router-outlet>

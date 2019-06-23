@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "cloud-func-7231d": {
+      "hosting": {
+        "front-end": [
+          "cloud-func-7231d"
+        ]
+      }
+    }
+  }
+}

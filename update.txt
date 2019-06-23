@@ -1,0 +1,8 @@
+angular.io/update 
+
+Angular -> fireauth
+
+facedetector
+
+-Subir imagen
+-Cargar -Verificar
